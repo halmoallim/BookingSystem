@@ -4,6 +4,7 @@ class CreateTickets < ActiveRecord::Migration[7.0]
       t.string :name
       t.integer :refrence
       t.float :price
+      t.location :string
 
       t.timestamps
     end
