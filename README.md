@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is for our first session which is basically to set up rails and create a project called Booking_System to test our understanding.
 
-Things you may want to cover:
+Booking_System includes: 
 
-* Ruby version
+1 - scaffold for ticket model with the following date:
+      name: string
+      refrence: integer
+      price: float
+      
+2 - we have created two branches
+     * The main branch.
+     * The f branch which for development
 
-* System dependencies
+3 - I have created a pull request for merging f branch with the main.
 
-* Configuration
 
-* Database creation
+as we have said this project is just for getting started with ruby on rails and git flow
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    
